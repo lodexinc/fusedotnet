@@ -1,1 +1,1 @@
-
+npm --version && node --version && git --version && gulp --version && gulp-cli --version && bower --version && yo --version && mongo --version && mongod --version && mongose --version && angular --version
